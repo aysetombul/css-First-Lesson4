@@ -549,7 +549,8 @@ text-align: center;
     display: block;
     padding-bottom: 10px;
     margin-bottom:8px;
-    fon
+    font-size: 12px;
+    font-weight: 400;
     color: #8e8f99;
     
 }
